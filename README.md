@@ -318,3 +318,4 @@ Para soporte o consultas:
 
 Desarrollado con ❤️ para Nómada
 # nomada-portal
+# nomadaportalv2
